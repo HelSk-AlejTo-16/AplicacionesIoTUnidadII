@@ -6,10 +6,16 @@ Este repositorio contiene el código fuente, diagramas y documentación del proy
 
 1. **Sensores/Actuadores (5 puntos)**
    - Conexión de los 40 sensores/actuadores.
-   - Junto a sus diagramas y código
-   - https://drive.google.com/drive/folders/1VItwHF7UhlutWrOmUKxG7xMq0sfN8ksc?usp=drive_link
-
+   - https://drive.google.com/drive/folders/1VItwHF7UhlutWrOmUKxG7xMq0sfN8ksc?usp=drive_link.
   
+   - 
+| Sensor | Diagrama | Código |
+|:---:       |     :---:      |        :---:  |
+| KY-001   |  ![ky_001](https://github.com/user-attachments/assets/b5606748-4896-46fb-b4f8-29c1c8544e1a)
+   |   [Uploading ky_001.py…]()
+ |
+| KY-002     | git diff       | git diff      |
+| KY-003     | git diff       | git diff      |
 
 2. **Ejercicio de Soldadura (1 punto)**
   - https://drive.google.com/file/d/1c-36bDtoHW7sUs0LEus1CHBEai0yRIZc/view?usp=sharing
